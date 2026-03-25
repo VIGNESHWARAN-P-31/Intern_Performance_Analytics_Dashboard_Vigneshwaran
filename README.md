@@ -22,11 +22,13 @@ This project focuses on analyzing intern performance using data analytics techni
 - Created dynamic and insightful reports
 
 ## Files Included
-- INTERN_DATASET.csv
-- Sprint 1 Notebook (.ipynb)
-- Sprint 2 EDA Notebook (.ipynb)
-- Sprint 1 Report (PDF)
-- Sprint 2 Report (PDF)
+- INTERN_DATASET.csv  
+- Sprint 1 Notebook (.ipynb)  
+- Sprint 2 EDA Notebook (.ipynb)  
+- Sprint 1 Report (PDF)  
+- Sprint 2 Report (PDF)  
+- Sprint 3 Dashboard (Power BI .pbix)  
+- Sprint 3 Report (PDF)  
 
 ## Tools Used
 - Python
