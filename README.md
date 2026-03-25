@@ -15,6 +15,12 @@ This project focuses on analyzing intern performance using data analytics techni
 - Created visualizations using Matplotlib and Seaborn
 - Analyzed relationships between attendance, performance, and mentor ratings
 
+## Sprint 3 – KPI Dashboard Development
+- Defined Key Performance Indicators (KPIs)
+- Developed interactive dashboard using Power BI
+- Visualized intern performance metrics
+- Created dynamic and insightful reports
+
 ## Files Included
 - INTERN_DATASET.csv
 - Sprint 1 Notebook (.ipynb)
@@ -29,3 +35,4 @@ This project focuses on analyzing intern performance using data analytics techni
 - Seaborn
 - Google Colab
 - Microsoft Excel
+- Power BI
