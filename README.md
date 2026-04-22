@@ -38,3 +38,19 @@ This project focuses on analyzing intern performance using data analytics techni
 - Google Colab
 - Microsoft Excel
 - Power BI
+  
+## Sprint 4 – Insights & Final Dashboard
+- Enhanced overall dashboard design with improved layout, spacing, and alignment
+- Applied consistent color theme for better visual clarity and user experience
+- Replaced less effective visuals with more meaningful charts for better insights
+- Added key visualizations:
+    Performance Distribution (Donut Chart)
+    Average Attendance by Domain (Column Chart)
+    Mentor Rating by Domain (Line Chart)
+    Attendance vs Task Comparison (Clustered Column Chart)
+- Derived important insights from data:
+    Majority of interns fall under the “Good” performance category
+    Higher attendance leads to better task completion
+    Data Science domain shows higher engagement and performance
+    Improved readability with proper titles, labels, and formatting
+    Finalized dashboard for presentation and reporting
